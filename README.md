@@ -39,6 +39,14 @@ join TG Bot
 </pre>                               
 
 
+實際效果
+![image](https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e)
+
+歷史
+![image](https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2)
+
+
+
 待辦功能  
 ０１,   每天晚上10點多發送未來30小時的不篩選賽事預告(待測試 訊息可能過長)               
 ０２,   

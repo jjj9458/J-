@@ -1,5 +1,4 @@
 # Telegram bot工具
-孬剛去死
 
 <pre style="white-space: pre-wrap; word-break: break-all;">
 TGbot_project/               
@@ -39,25 +38,24 @@ join TG Bot
 </pre>                               
 
 
-實際效果
-![image](https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e)
+---
 
-歷史
-![image](https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2)
+### 實際效果
+<img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="60%" alt="第一張圖">
+<img src="https://github.com/user-attachments/assets/d5eea759-baec-4ac5-8968-8b77922d4fa3?raw=true" width="48%">
+<img src="https://github.com/user-attachments/assets/e655f0d6-063b-4ae1-a4f2-69cc6ba2113a?raw=true" width="48%">
 
-<p>
-  <br>
-  <h4>實際效果</h4>h4><br>
-  <img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="60%" alt="第一張圖">
-  <h1>歷史</h1>h1><br>
-  <img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="40%" alt="第二張圖">
-</p>
+#
+### 歷史
+<img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="40%" alt="第二張圖">
 
+---
 
 
-待辦功能  
+### 待辦功能  
 ０１,   每天晚上10點多發送未來30小時的不篩選賽事預告(待測試 訊息可能過長)               
 ０２,   
 ０３,   
 ０４,   
 ０５,   
+

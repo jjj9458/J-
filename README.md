@@ -3,18 +3,18 @@
 
 TGbot_project/               
 │               
-├─ config.gs/README.md               
-├─ webhook.gs               
-└─ core.gs               
+├─ config.gs/README.md                              
+├─ webhook.gs                              
+└─ core.gs                              
     ├─ Function_buttons_1.gs               
     ├─ Function_buttons_2.gs               
     └─ Function_buttons_3.gs               
                
 join TG Bot               
  │               
- ├─`/start`        啟動機器人並顯示用戶 ID。
- ├─`/help`         顯示可用指令列表與說明。
- ├─`/menu`         顯示主要功能選單
+ ├─`/start`        啟動機器人並顯示用戶 ID。               
+ ├─`/help`         顯示可用指令列表與說明。               
+ ├─`/menu`         顯示主要功能選單               
  │   ├─訂 閱 通 知                                          
  │   │   ├─單 場                                     
  │   │   │   ├─足 球 ,籃 球 ,網 球 ,冰 球 ,棒 球 ,電 競 ,其 他 

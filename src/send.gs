@@ -118,6 +118,24 @@ function autoNotifyEvents() {
         homeTeam = row[3],     // 主隊
         awayTeam = row[4],     // 客隊
         desc = row[5];         // 活動描述
+
+    /** 
+     * 已知運動清單：足球、籃球、網球、冰球、棒球、電競、其他
+     * 如果遇到「英雄聯盟」「保留電競1」「保留電競2」，皆視作電競
+     * 遇到不在此列表的運動，直接視為「其他」，讓訂閱「其他」的用戶也能收到通知
+     */
+
+    var esportsCategories = ["英雄聯盟", "保留電競1", "保留電競2"];
+    if (esportsCategories.indexOf(sport) !== -1) {
+      Logger.log("運動種類「" + sport + "」歸類為「電競」");
+      sport = "電競";
+    }
+
+    var knownSports = ["足球","籃球","網球","冰球","棒球","電競","其他"];
+    if (knownSports.indexOf(sport) === -1) {
+      Logger.log("運動種類「" + sport + "」非預設，歸類到「其他」");
+      sport = "其他";
+    }
     
     // 解析賽事時間取得毫秒值
     var eventTs;

@@ -1,5 +1,11 @@
 # Telegram bot工具
 
+https://t.me/J_TSL_tool_bot  
+
+&#8203;  
+  
+## 流程
+
 <pre style="white-space: pre-wrap; word-break: break-all;">
 TGbot_project/               
 │               
@@ -8,8 +14,8 @@ TGbot_project/
 └─ core.gs                              
     ├─ Function_buttons_1.gs               
     ├─ Function_buttons_2.gs               
-    └─ Function_buttons_3.gs               
-               
+    └─ Function_buttons_3.gs        
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 join TG Bot               
 │               
 ├─ /start        啟動機器人並顯示用戶 ID。               
@@ -25,8 +31,8 @@ join TG Bot
 │   │   ├─ 場​中                                     
 │   │   └─ 返​回​主​選​單                             
 │   │                                           
-│   ├─ buttons_2                                     
-│   ├─ buttons_3                                     
+│   ├─ buttons_2      未完成                               
+│   ├─ buttons_3      未完成
 │   ├─ 許​願​池                                       
 │   ├─ 贊​助                                           
 │   └─ 關​閉​選​單                                   
@@ -35,24 +41,21 @@ join TG Bot
 ├─ /clear_notify        清除所有訂閱項目
 ├─ /manual              說明書
 └─ /……                  更多…
-</pre>                               
+</pre>      
 
+&#8203;  
 
----
-
-### 實際效果
+# 實際效果
 <img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="60%" alt="第一張圖">
 <img src="https://github.com/user-attachments/assets/d5eea759-baec-4ac5-8968-8b77922d4fa3?raw=true" width="48%">
 <img src="https://github.com/user-attachments/assets/e655f0d6-063b-4ae1-a4f2-69cc6ba2113a?raw=true" width="48%">
 
-#
 ### 歷史
 <img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="40%" alt="第二張圖">
 
----
+&#8203;  
 
-
-### 待辦功能  
+# 待辦功能  
 ０１,   每天晚上10點多發送未來30小時的不篩選賽事預告(待測試 訊息可能過長)               
 ０２,   
 ０３,   

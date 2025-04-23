@@ -1,17 +1,17 @@
 # Telegram bot工具
 孬剛去死
 
-TGbot_project/
-│
-├─ config.gs/README.md
-├─ webhook.gs
-└─ core.gs
-    ├─ Function_buttons_1.gs
-    ├─ Function_buttons_2.gs
-    └─ Function_buttons_3.gs
-
+TGbot_project/               
+│               
+├─ config.gs/README.md               
+├─ webhook.gs               
+└─ core.gs               
+    ├─ Function_buttons_1.gs               
+    ├─ Function_buttons_2.gs               
+    └─ Function_buttons_3.gs               
+               
 join TG Bot               
- │
+ │               
  ├─`/start`        啟動機器人並顯示用戶 ID。
  ├─`/help`         顯示可用指令列表與說明。
  ├─`/menu`         顯示主要功能選單

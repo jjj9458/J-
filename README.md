@@ -47,11 +47,10 @@ join TG Bot
 
 <p>
   <br>
-  <i>實際效果</i>
-  <img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="45%" alt="第一張圖">
-  <br>
-  <i>歷史</i>
-  <img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="45%" alt="第二張圖">
+  <h4>實際效果</h4>h4><br>
+  <img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="60%" alt="第一張圖">
+  <h1>歷史</h1>h1><br>
+  <img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="40%" alt="第二張圖">
 </p>
 
 

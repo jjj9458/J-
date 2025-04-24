@@ -2,8 +2,20 @@
 
 https://t.me/J_TSL_tool_bot  
 
+# 警告
+本工具發送資訊來源於:https://article.sportslottery.com.tw/zh-tw/news/live-schedule?iframe  
+相關法律:https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0120050  
+
 &#8203;  
-  
+
+# 贊助
+連結:[申請中](https://)  
+
+我承諾贊助款將優先用於伺服器運作  
+其餘則繼續貢獻給[台灣運彩](https://article.sportslottery.com.tw/)  
+### 贊助僅為將不給予其他承諾
+
+&#8203;  
 ## 流程
 
 <pre style="white-space: pre-wrap; word-break: break-all;">

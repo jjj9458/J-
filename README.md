@@ -8,12 +8,20 @@ https://t.me/J_TSL_tool_bot
 
 &#8203;  
 
-## 贊助   
-#### 請我一杯咖啡-連結:[申請中](https://)  
-### 聲明
+## 贊助支持：
+#### 請我一杯咖啡
+<p align="left">
+  <a href="https://p.ecpay.com.tw/B651285" target="_blank">
+    <img src="https://payment.ecpay.com.tw/Upload/QRCode/202504/QRCode_f581a638-4852-44ad-b863-b47aff0fa1aa.png" height="70"/>
+    <img src="https://www.ecpay.com.tw/Content/Themes/WebStyle20131201/images/header_logo.png" alt="ECPay" height="50" />
+  </a>
+</p>  
+
+
+ ### 聲明
 • 我承諾贊助款將優先用於維持3~6個月內的伺服器運作。    
 • 月結餘額則繼續貢獻給[台灣運彩](https://article.sportslottery.com.tw/)。    
-• 贊助行為屬於自願性支持，並非購買商品或交換服務，若平台不支援原則無法取消或退還，請在確認金額與意願後再行操作。  
+• 贊助行為屬於自願性支持，並非購買商品或交換服務，若平台不支援原則上無法取消或退還，請在確認金額與意願後再行操作。  
 • 若因不可抗力因素（如伺服器中斷、平台維護等）影響使用權益，亦不構成退費依據。  
 
 
@@ -60,9 +68,21 @@ join TG Bot
 &#8203;  
 
 ## 實際效果
-<img src="https://github.com/user-attachments/assets/fbaa1487-cac0-488f-b854-c00320d34c9e?raw=true" width="60%" alt="第一張圖">
-<img src="https://github.com/user-attachments/assets/d5eea759-baec-4ac5-8968-8b77922d4fa3?raw=true" width="48%">
-<img src="https://github.com/user-attachments/assets/e655f0d6-063b-4ae1-a4f2-69cc6ba2113a?raw=true" width="48%">
+
+
+
+https://github.com/user-attachments/assets/db866c2f-bd42-4a63-971b-9a08c33810b7
+
+
+https://github.com/user-attachments/assets/22691f7a-f64e-4740-b6b1-b9598a106cf2
+
+
+https://github.com/user-attachments/assets/2365a3a7-c037-48da-b479-8d869fef8533
+
+
+https://github.com/user-attachments/assets/6dd740f8-8d2a-4cc0-b1e2-d57933fae1e0
+
+<img src="https://github.com/user-attachments/assets/2ca6a48c-baf9-4edd-bc5d-1fbaf41a856e" width="70%">
 
 #### 歷史
 <img src="https://github.com/user-attachments/assets/3bc2ff05-a7f7-4deb-bef4-33f329698ec2?raw=true" width="40%" alt="第二張圖">
@@ -76,3 +96,16 @@ join TG Bot
 ０４,   
 ０５,   
 
+## 許願池&回應   
+<pre>
+０１,   重建line版本   
+  回：之前版本的用量粗算一個月28800則訊息(平日10+假日20\*一個月四週*人數)    
+      用新版Line messaging api收費約4500~5000，如果投幣達標會考慮  
+
+０２,   FB版本  
+  回：不熟，但有機會會再研究看看  
+    
+０３,    
+０４,    
+０５,   
+</pre>

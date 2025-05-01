@@ -95,7 +95,14 @@ https://github.com/user-attachments/assets/6dd740f8-8d2a-4cc0-b1e2-d57933fae1e0
 ０２,   
 ０３,   
 ０４,   
-０５,   
+０５,    
+
+## 已知BUG  
+０１,   用戶封鎖後造成回傳403，程式會直接終止，後面無法繼續發送
+０２,   
+０３,   
+０４,   
+０５,    
 
 ## 許願池&回應   
 <pre>
